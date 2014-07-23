@@ -95,6 +95,17 @@ A method of partitioning a dataset into *k* clusters by picking *k* random initi
 <br>
 <br>
 
+<a class="mc-toclify" id="Density-Based-clustering"></a>
+#### Density Based Clustering
+[[back to top](#table-of-contents)]
+
+In density-based clustering, clusters are defined as areas of higher density which are separated by low density regions. The most popular density-based clustering method is DBSCAN [DBScan](#dbscan).   
+(submitted by [Vahid Mirjalili](https://github.com/mirjalil))
+
+
+<br>
+<br>
+
 <a class="mc-toclify" id="k-means-pp-clustering"></a>
 #### K-Means++ Clustering
 [[back to top](#table-of-contents)]
