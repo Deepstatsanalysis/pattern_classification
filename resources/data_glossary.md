@@ -106,6 +106,20 @@ A variant of [k-means](#k-means-clustering) where instead of choosing all initia
 <br>
 <br>
 
+
+
+<a class="mc-toclify" id="dbscan"></a>
+#### DBScan
+[[back to top](#table-of-contents)]
+
+DBScan is a [density-based clustering](#Density-Based-clustering) algorithm, which requires two paramaters $\eps$ and the minimum number of points required to form a dense region. Robustness of DBScan alogirthm in identifying clusters that are not linearly separable, as well as ability to handle clusters of different sizes have made it the most widely used clustering algorithm.   
+(submitted by [Vahid Mirjalili](https://github.com/mirjalil))
+
+
+<br>
+<br>
+
+
 <a class="mk-toclify" id="linear-discriminant-analysis-lda"></a>
 #### Linear Discriminant Analysis (LDA)
 [[back to top](#table-of-contents)]
