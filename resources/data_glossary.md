@@ -106,6 +106,30 @@ A variant of [k-means](#k-means-clustering) where instead of choosing all initia
 <br>
 <br>
 
+
+<a class="mc-toclify" id="k-means-pp-clustering"></a>
+#### K-Means++ Clustering
+[[back to top](#table-of-contents)]
+
+A variant of [k-means](#k-means-clustering) where instead of choosing all initial centers randomly, the first is chosen randomly, the second chosen with probability proportional to the squared distance from the first, the third chosen with probability proportional to the square distance from the first two, etc. See [this paper](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf).   
+(submitted by [Jack Maney](https://github.com/jackmaney))
+
+
+<br>
+<br>
+
+<a class="mc-toclify" id="dbscan"></a>
+#### DBScan
+[[back to top](#table-of-contents)]
+
+DBScan is a [density-based clustering](#Density-Based-clustering) algorithm, which requires two paramaters $\eps$ and the minimum number of points required to form a dense region. Robustness of DBScan alogirthm in identifying clusters that are not linearly separable, as well as ability to handle clusters of different sizes have made it the most widely used clustering algorithm.   
+(submitted by [Vahid Mirjalili](https://github.com/mirjalil))
+
+
+<br>
+<br>
+
+
 <a class="mk-toclify" id="linear-discriminant-analysis-lda"></a>
 #### Linear Discriminant Analysis (LDA)
 [[back to top](#table-of-contents)]
