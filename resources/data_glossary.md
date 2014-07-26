@@ -48,6 +48,7 @@ Please feel free to drop me a note via
 - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
 - [Purity Measure](#purity-measure)
 - [Supervised learning](#supervised-learning)
+- [Support Vector Machine](#support-vector-machine)
 - [Unsupervised learning](#unsupervised-learning)
 
 
@@ -335,6 +336,16 @@ The problem of inferring a mapping between the input space X and a target variab
 <br>
 <br>
 
+
+<a class="mk-toclify" id="support-vector-machine"></a>
+#### Support Vector Machine
+
+[[back to top](#table-of-contents)]
+...
+(submitted by [Vahid Mirjalili](https://github.com/mirjalil))
+
+<br>
+<br>
 
 
 <a class="mk-toclify" id="unsupervised-learning"></a>
