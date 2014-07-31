@@ -59,6 +59,7 @@ Please feel free to drop me a note via
 - [Precision and Recall](#precision-recall)
 - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
 - [Purity Measure](#purity-measure)
+- [Random forest](#random-forest)
 - [Supervised learning](#supervised-learning)
 - [Support Vector Machine (SVM)](#support-vector-machine)
 - [Unsupervised learning](#unsupervised-learning)
@@ -426,6 +427,8 @@ In a cluster analysis with given truth cluster memberships (or classes), "purity
 
 <br>
 <br>
+
+
 
 <a class="mk-toclify" id="supervised-learning"></a>
 #### Supervised Learning
